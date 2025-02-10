@@ -27,9 +27,6 @@ The Reliance Sales Report Dashboard provides insights into:
 6. **Returns vs Previous Month**:
    - Metrics showing total returns and trends
 
-## Files Included
-
-- **`New Reliance Sales Report.pbix`**: The Power BI file containing the complete dashboard.
 
 ## Key Features
 
